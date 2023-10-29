@@ -1,0 +1,12 @@
+.search-feed {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 10px 0;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+.search-feed div {
+  max-width: 300px;
+}

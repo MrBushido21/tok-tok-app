@@ -1,0 +1,21 @@
+.App {
+    background-color: black;
+}
+  
+
+ul {
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+    max-width: 1230px;
+    padding: 0 15px;
+    margin: 0 auto;
+}
+
+.feed {
+    display: flex;
+    flex-direction: column;
+    row-gap: 20px;
+}
