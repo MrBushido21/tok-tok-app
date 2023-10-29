@@ -1,7 +1,7 @@
 import { fetchUsersLiked, fetchUsersPosts } from "../api/api"
 import { UserVideos } from "../components/user/UserVideos"
 
-export const REGION = 'RU'
+export const REGION = 'US'
 
 export const USER_TABS = [
     {
